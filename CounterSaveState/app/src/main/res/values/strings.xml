@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CounterSaveState</string>
+    <string name="count">Count</string>
+    <string name="this_is_an_edit_text">This is an edit text</string>
+</resources>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CounterWeek2</string>
+    <string name="hello">Hello!</string>
+    <string name="count">Count</string>
+    <string name="_0">0</string>
+    <string name="hello2">HELLO!</string>
+</resources>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Two Activities</string>
+    <string name="send">SEND</string>
+    <string name="text_header">Message Recieved</string>
+    <string name="ediText_main">Enter Your Message Here</string>
+    <string name="reply_recieved">REPLY RECIEVED</string>
+</resources>
