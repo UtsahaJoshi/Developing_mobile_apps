@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/recipe_title"
+        style="@style/word_title"
+        />
+
+    <TextView
+        android:id="@+id/recipe_description"
+        style="@style/word_content" />
+    <View
+        android:id="@+id/vRatingSeparator"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_below="@+id/recipe_description"
+        android:background="@color/colorPrimary"/>
+</LinearLayout>
